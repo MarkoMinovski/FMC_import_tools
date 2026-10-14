@@ -1,4 +1,4 @@
-\# FMC Import Tools
+# FMC Import Tools
 
 
 
@@ -6,7 +6,7 @@ Two small desktop tools for creating objects in Cisco Firepower Management Cente
 
 
 
-\## FMC CSV Importer (`autogroupcreator\_fmc` folder)
+## FMC CSV Importer (`autogroupcreator_fmc` folder)
 
 
 
@@ -14,15 +14,15 @@ Reads a CSV file with the columns `object,type`, where the type is `url`, `ipv4`
 
 
 
-\## FMC Microsoft 365 Endpoint Sync (`m365` folder)
+## FMC Microsoft 365 Endpoint Sync (`m365` folder)
 
 
 
-Downloads the current list of Microsoft 365 endpoints from Microsoft and creates the matching URL objects in FMC. It then updates six groups (`M365\_Optimize`, `M365\_Allow` and `M365\_Default`, each for IPv4 addresses and for URLs) that way they always reflect the latest list.
+Downloads the current list of Microsoft 365 endpoints from Microsoft and creates the matching URL objects in FMC. It then updates six groups (`M365_Optimize`, `M365_Allow` and `M365_Default`, each for IPv4 addresses and for URLs) that way they always reflect the latest list.
 
 
 
-\# Other features
+# Other features
 
 
 
@@ -32,13 +32,12 @@ Parts of the code are based on the publicly available Cisco Devnet community plu
 
 
 
-For now, these tools do not support the ability to automate rule-creation on the Cisco FMC device, as well as to automate their deployment. This was an intentional
-
-security design decision.
-
+For now, these tools do not support the ability to automate rule-creation on the Cisco FMC device, as well as to automate their deployment. 
+This was an intentional security design decision.
 
 
-\# Things I plan on adding:
+
+# Things I plan on adding:
 
 
 
