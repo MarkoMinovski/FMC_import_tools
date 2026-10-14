@@ -1,0 +1,8 @@
+{
+  "fmc_url": "https://fmcrestapisandbox.cisco.com",
+  "username": "abcd",
+  "password": "",
+  "verify_ssl": false,
+  "ca_cert": "",
+  "name_prefix": "AGC"
+}
