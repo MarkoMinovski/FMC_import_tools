@@ -37,9 +37,7 @@ This was an intentional security design decision.
 
 
 
-# Things I plan on adding:
-
-
+# Planned features:
 
 * Ability to pause a script in-progress.
 * Ability to mass-delete objects by chosen name or prefix.
