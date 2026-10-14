@@ -42,3 +42,8 @@ This was an intentional security design decision.
 * Ability to pause a script in-progress.
 * Ability to mass-delete objects by chosen name or prefix.
 
+### Made by:
+
+- Marko Minovski
+- Bojana Naumovska
+- Filip Matev
